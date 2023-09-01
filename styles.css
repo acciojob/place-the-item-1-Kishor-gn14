@@ -1,2 +1,11 @@
+div {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
 
-/* Your CSS Code here. */
+.item-1, .item-2, .item-3, .item-4, .item-5, .item-6, .item-7 {
+    background-color: green;
+    height: 100px;
+    width: 100px;
+}
